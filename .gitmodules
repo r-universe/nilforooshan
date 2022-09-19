@@ -8,11 +8,6 @@
 	url = https://github.com/nilforooshan/ggroups
 	shallow = true
 	registered = true
-[submodule "mbend"]
-	path = mbend
-	url = https://github.com/nilforooshan/mbend
-	shallow = true
-	registered = true
 [submodule "pedSimulate"]
 	path = pedSimulate
 	url = https://github.com/nilforooshan/pedsimulate

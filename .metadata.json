@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "mbend",
-    "oncran": true
-  },
-  {
     "package": "pedSimulate",
     "oncran": true
   }
