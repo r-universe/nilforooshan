@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "pedSimulate"]
-	path = pedSimulate
-	url = https://github.com/nilforooshan/pedsimulate
-	shallow = true
-	registered = true
 [submodule "ggroups"]
 	path = ggroups
 	url = https://github.com/nilforooshan/ggroups
@@ -16,5 +11,10 @@
 [submodule "mbend"]
 	path = mbend
 	url = https://github.com/nilforooshan/mbend
+	shallow = true
+	registered = true
+[submodule "pedSimulate"]
+	path = pedSimulate
+	url = https://github.com/nilforooshan/pedsimulate
 	shallow = true
 	registered = true
